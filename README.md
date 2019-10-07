@@ -1,6 +1,6 @@
-# day_5_starter
+# day_6_starter
 
-Day 5 Starting Code
+Day 6 Starting Code
 
 ## Getting Started
 
