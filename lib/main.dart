@@ -88,3 +88,9 @@ class _QuizPageState extends State<QuizPage> {
     );
   }
 }
+
+
+// Sample Questions and Answers
+// Q.1 Amartya Sen was awarded the Nobel prize for his contribution to Welfare Economics., true
+// Q.2 The Headquarters of the Southern Naval Command of the India Navy is located at Thiruvananthapuram., false
+// Q.3 There are 4 sessions of the Parliament each year: Spring, Summer, Autumn and Winter., false
